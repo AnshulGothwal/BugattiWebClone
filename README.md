@@ -11,10 +11,10 @@ https://bugatti-web-clone.vercel.app/
 - Video Hero Section
 - Glassmorphism UI
 - Booking Form
-- 
+
 ## Technologies Used
 - HTML
 - CSS
 
 - ## Author
-Anshul Gothwal
+-Anshul Gothwal
