@@ -4,7 +4,7 @@
 https://bugatti-web-clone.vercel.app/
 
 ## Preview
-![Preview](bugatti.png)
+![Preview](bugatti-preview.png)
 
 ## Features
 - Responsive Design
