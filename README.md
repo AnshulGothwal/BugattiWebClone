@@ -16,5 +16,5 @@ https://bugatti-web-clone.vercel.app/
 - HTML
 - CSS
 
-- ## Author
+## Author
 -Anshul Gothwal
